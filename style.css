@@ -1,0 +1,31 @@
+.jumbotron{
+ color: white;
+ background-color: black;
+ text-transform: uppercase;
+}
+body{
+ background-color: rgba(255, 0, 0, 0.411);
+}
+h1{
+ color: white;
+ font-size: 50px;
+ font-weight: bold;
+}
+h2{
+ font-size: 40px;
+ font-weight: bold;
+}
+p{
+ color: white;
+ font-size: 30px;
+ font-weight: bold;
+ background-color: rgba(0, 0, 0, 0.63);
+ border-radius: 20px;
+ padding-left: 30px;
+}
+#days,#hours,#mins,#seconds{
+ padding-left: 55px;
+}
+.middle{
+ padding-left: 45px;
+}
